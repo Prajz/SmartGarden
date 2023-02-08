@@ -1,5 +1,5 @@
 ## SmartGarden
-This project was created using 2 Arduino UNO starter kits. The main purpose is to have a self-sustaining plant system which can water itself when required and also provide sunlight to ensure photosynthesis. This is acheived with the use of moisture and light sensors which activate water and light respectively once a certain point is reached. It can also alternate between 2 different modes of manual and auto. 
+This project was created using 2 Arduino UNO starter kits. The main purpose was to have a self-sustaining plant system which has the ability to water itself when required and also provide sunlight to ensure photosynthesis. This was acheived with the use of moisture and light sensors which activated the water pump and LED light system respectively once a certain minima was reached. It also was able to alternate between 2 different modes of manual and auto. 
 
 A [demo of this project](https://youtu.be/JCjzglzV1n8/) can be seen at this link.
 
